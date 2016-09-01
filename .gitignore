@@ -1,4 +1,6 @@
 */logs
 */data
 */pids
+*/*.jar
+*/*/*.jar
 
